@@ -1,0 +1,15 @@
+flag_key,channel_name,Status,Priority,channel_code
+1,"Online Store","Shipped","Standard",10
+2,"Wholesale","Shipped","Express",30
+4,"Retail Partner","Delivered","Standard",20
+5,"Retail Partner","Delivered","Express",20
+3,"Field Sale","Delivered","Express",40
+6,"Online Store","Delivered","Express",10
+7,"Wholesale","Delivered","Standard",30
+8,"Retail Partner","Shipped","Standard",20
+9,"Field Sale","Delivered","Standard",40
+10,"Wholesale","Delivered","Express",30
+11,"Wholesale","Processing","Express",30
+12,"Online Store","Processing","Express",10
+13,"Online Store","Delivered","Standard",10
+14,"Retail Partner","Processing","Express",20
